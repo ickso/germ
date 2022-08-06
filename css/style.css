@@ -1,0 +1,27 @@
+
+body{
+    
+    background-color:rgb(48, 46, 46); 
+    font-size: 16px;
+    color:tan;
+    font-family: sans-serif;
+
+}
+
+
+table, th, td {
+     border: 1px solid black;
+    
+            
+}
+
+.regular {
+background-color: darkslategray;
+width: 50%;
+}
+
+.irregular {
+    background-color: darkslategray;
+    width: 50%;
+
+}
